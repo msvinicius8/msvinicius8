@@ -1,7 +1,7 @@
 <img align="right" alt="Vini-gif" height="200" style="border-radius:90px;" src="https://i.imgur.com/ehAkEMR.gif">
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="left">Hi! Currently, I'm in the last year of Computer Science at Universidade São Judas Tadeu(USJT) in Butantã, São Paulo - SP, Brazil. I'm very interested in        Software Engineering and Web development. I'm very creative and I love teamwork. Feel free to contact me =D </p>
+<p align="left">Hi! I'm graduated in Computer Science at Universidade São Judas Tadeu(USJT). I live in São Paulo - SP, Brazil. I'm very interested in        Software Engineering and Web development. Just consider myself creative and I'm enthusiastic of technology. Feel free to contact me =D </p>
 </td>
 <td>
 
